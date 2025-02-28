@@ -4,4 +4,3 @@ We can do manual testing and automation testion.If the companies and projects ar
 are used.Other wise in small companies and projects,websites are tested properly by the developers.
 
  
- 
